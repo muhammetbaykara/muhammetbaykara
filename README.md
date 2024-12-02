@@ -1,5 +1,4 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFpGm0jqZn9jg/profile-displaybackgroundimage-shrink_350_1400/0/1715431451632?e=1728518400&v=beta&t=JS71n6GK9gGbrqtF5xTCWK0mtCFFODyVTjDGiQQgnoo)
-
 <h1 align="center">Hi 👋, I'm Muhammet Baykara</h1>
 <h3 align="center">"A Software Engineer who stands out with his original and innovative ideas"</h3>
 
