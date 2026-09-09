@@ -1,607 +1,258 @@
-<div align="center">
-
-<img src="./assets/muhammet-baykara-github-hero.svg" width="100%" alt="Muhammet Baykara — Software Engineer, Cloud, AI & Infrastructure"/>
-
-<br/>
-
-<a href="https://linkedin.com/in/muhammet-baykara-59a320294">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/iambaykara">
-<img src="https://img.shields.io/badge/@iambaykara-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:muhammetbaykara491@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👋 About Me
-
-I'm a **Software Engineer** focused on building solutions across software, cloud, infrastructure and AI.
-
-My approach isn't simply about choosing a technology.
-
-I focus on understanding the **problem behind the problem**, designing practical solutions and turning ideas into systems that create real value.
-
-I enjoy working across different layers of technology:
-
-`Software` · `Cloud` · `Infrastructure` · `Automation` · `Observability` · `AI`
-
-I'm especially interested in transforming technical ideas into **useful products, scalable systems and new opportunities**.
-
----
-
-# ⚡ What Defines My Work
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<h2>🧠</h2>
-
-<h3>Problem Solver</h3>
-
-<p>
-I approach technology from the problem first, not the tool first.
-</p>
-
-</td>
-
-<td width="33%" align="center">
-
-<h2>⚙️</h2>
-
-<h3>Builder</h3>
-
-<p>
-I turn ideas into software, automated systems and working solutions.
-</p>
-
-</td>
-
-<td width="33%" align="center">
-
-<h2>🚀</h2>
-
-<h3>Entrepreneur</h3>
-
-<p>
-I look for opportunities where technology can create meaningful value.
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏢 What I Do
-
-### IT & Software Solutions Specialist — Prodenso BT
-
-My current role combines **software engineering, infrastructure, monitoring, networking and IT solutions**.
-
-I work across areas such as:
-
-- Infrastructure & system operations
-- Network monitoring and management
-- Network configuration & automation
-- Cloud infrastructure
-- Containerized environments
-- Observability & monitoring
-- IT support & technical operations
-- Software solutions
-- API integrations
-- Workflow automation
-
-This experience has shaped the way I approach engineering:
-
-> **I don't only think about the application. I think about the system around it.**
-
----
-
-# 🛠️ Technology Stack
-
-<div align="center">
-
-## ☁️ CLOUD & PLATFORM
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare"/>
-</p>
-
-**AWS**  
-**OpenStack**  
-**Safir Bulut**  
-**Cloud Applications**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,nginx"/>
-</p>
-
-**Linux**  
-**Virtualization**  
-**Nginx**  
-**SSH**  
-**Infrastructure Operations**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ⚙️ DEVOPS & AUTOMATION
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Containers & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
-</p>
-
-**Docker**  
-**Kubernetes**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Infrastructure as Code
-
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
-</p>
-
-**Terraform**  
-**Ansible**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Automation
-
-**n8n**  
-**Workflow Automation**  
-**Process Automation**  
-**Network Automation**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
-</p>
-
-**Git** · **GitHub** · **GitLab**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📡 OBSERVABILITY & MONITORING
-
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/SolarWinds-00A4EF?style=for-the-badge&logo=solarwinds&logoColor=white"/>
-
-<br/><br/>
-
-**SolarWinds**
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
-
-<br/><br/>
-
-**Zabbix**
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-<br/><br/>
-
-**Grafana**
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<br/><br/>
-
-**Prometheus**
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-`Monitoring` · `Metrics` · `Logging` · `Alerting` · `Infrastructure Health` · `Observability`
-
-<br/>
-
-**OpenSearch**
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 NETWORKING & SYSTEM ENGINEERING
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Networking
-
-**Network**  
-**TCP/IP**  
-**Network Troubleshooting**  
-**Network Automation**  
-**Network Configuration Management**
-
-<br/>
-
-**Wireshark**
-
-</td>
-
-<td width="50%" valign="top">
-
-### System Engineering
-
-**Linux**  
-**SSH**  
-**Nginx**  
-**Virtualization**  
-**IIS Crypto**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🤖 AI & MACHINE LEARNING
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### AI Systems
-
-<p>
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/AnythingLLM-111827?style=for-the-badge&logo=ai&logoColor=white"/>
-</p>
-
-**Ollama**  
-**AnythingLLM**  
-**AI Applications**  
-**AI Automation**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-**Machine Learning**  
-**Python**  
-**LLM Applications**  
-**AI Agents**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 💻 SOFTWARE ENGINEERING
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,java,html"/>
-</p>
-
-**Python**  
-**C#**  
-**Java**  
-**HTML**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Application Development
-
-**Software Engineering**  
-**Cloud Applications**  
-**API Integration**  
-**Backend Development**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🗄️ DATA & DISTRIBUTED SYSTEMS
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Databases
-
-**Microsoft SQL Server**  
-**MySQL**  
-**Supabase**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Messaging
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-**Kafka**  
-**RabbitMQ**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🔎 AUTOMATION & WEB
-
-</div>
+<!-- =========================
+     HERO
+========================= -->
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-111827?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Scraping-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
+  <img
+    src="./assets/muhammet-baykara-github-hero.svg"
+    width="100%"
+    alt="Muhammet Baykara — Software Engineer · Cloud · AI · Infrastructure"
+  />
 </p>
 
-<div align="center">
+<br>
 
-`Selenium` · `BeautifulSoup` · `Web Scraping` · `Resend` · `Supabase`
+<!-- =========================
+     SOCIALS
+========================= -->
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammet-baykara-59a320294">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/iambaykara">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:muhammetbaykara491@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
+<br>
 
-<div align="center">
+<!-- =========================
+     ABOUT
+========================= -->
 
-## 🗂️ ENGINEERING WORKFLOW
+<h2 align="center">Building Systems. Solving Problems. Creating Products.</h2>
 
-</div>
+<p align="center">
+  I’m a Software Engineer focused on Cloud, AI, Infrastructure and automation.
+  <br>
+  I enjoy taking complex problems, turning them into simple systems,
+  <br>
+  and building technology that creates real value.
+</p>
 
-<table>
-<tr>
+<br>
 
-<td width="25%" align="center">
+<p align="center">
+  <strong>IT & Software Solutions Specialist @ Prodenso BT</strong>
+</p>
 
-### 🔧
+<br>
 
-**Git**
+<!-- =========================
+     WHAT DEFINES MY WORK
+========================= -->
 
-Version Control
+<h2 align="center">What Defines My Work</h2>
 
-</td>
-
-<td width="25%" align="center">
-
-### 🔄
-
-**GitHub · GitLab**
-
-Collaboration
-
-</td>
-
-<td width="25%" align="center">
-
-### 📋
-
-**Jira**
-
-Workflow & Process Management
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧩
-
-**Agile · Scrum**
-
-Engineering Methodology
-
-</td>
-
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧠 Problem Solver</h3>
+      <p>
+        I approach technology from the problem first,
+        not from the tool first.
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Builder</h3>
+      <p>
+        I enjoy turning ideas into systems,
+        automations and usable software.
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Entrepreneur</h3>
+      <p>
+        I care about building products that
+        solve real problems and create value.
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<br>
 
-# 🧠 Engineering Mindset
+<!-- =========================
+     WHAT I DO
+========================= -->
 
-<div align="center">
+<h2 align="center">What I Do</h2>
 
-<table>
-<tr>
+<p align="center">
+  <strong>Cloud Infrastructure · Software Engineering · Automation · AI · Observability</strong>
+</p>
 
-<td align="center">
+<p align="center">
+  My work sits at the intersection of software and infrastructure —
+  designing systems, automating operational processes, improving observability,
+  and exploring practical applications of AI.
+</p>
 
-<h3>01</h3>
+<br>
 
-<b>Understand</b>
+<!-- =========================
+     TECHNOLOGY STACK
+========================= -->
 
-<br/>
+<h2 align="center">⚡ Technology Stack</h2>
 
-Understand the real problem.
-
-</td>
-
-<td align="center">
-
-<h3>02</h3>
-
-<b>Design</b>
-
-<br/>
-
-Choose the right approach.
-
-</td>
-
-<td align="center">
-
-<h3>03</h3>
-
-<b>Build</b>
-
-<br/>
-
-Turn ideas into solutions.
-
-</td>
-
-<td align="center">
-
-<h3>04</h3>
-
-<b>Improve</b>
-
-<br/>
-
-Measure, automate and iterate.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-### Build → Automate → Observe → Improve
-
-</div>
-
----
-
-# 🤝 Professional Skills
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Problem%20Solving-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Teamwork-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Effective%20Communication-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Presentation-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agile-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scrum-0F172A?style=flat-square"/>
+<h3>☁️ Cloud & Platform</h3>
+
+<img src="https://skillicons.dev/icons?i=aws,openstack,docker,kubernetes,linux" />
+
+<br><br>
+
+<h3>⚙️ DevOps & Automation</h3>
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible,git,github,gitlab" />
+
+<br><br>
+
+<h3>📊 Observability & Monitoring</h3>
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+<br>
+
+<strong>SolarWinds</strong> · <strong>Zabbix</strong> · <strong>OpenSearch</strong>
+
+<br><br>
+
+<h3>🌐 Networking & Infrastructure</h3>
+
+<img src="https://skillicons.dev/icons?i=linux,nginx" />
+
+<br>
+
+<strong>Networking</strong> · <strong>Virtualization</strong> · <strong>Wireshark</strong> · <strong>IIS Crypto</strong>
+
+<br><br>
+
+<h3>🤖 AI & Machine Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+<strong>Machine Learning</strong> · <strong>Ollama</strong> · <strong>AnythingLLM</strong>
+
+<br><br>
+
+<h3>💻 Software Engineering</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,html" />
+
+<br>
+
+<strong>Cloud Applications</strong>
+
+<br><br>
+
+<h3>🗄️ Data & Distributed Systems</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br>
+
+<strong>Kafka</strong> · <strong>RabbitMQ</strong> · <strong>Supabase</strong>
+
+<br><br>
+
+<h3>🔄 Automation & Web</h3>
+
+<img src="https://skillicons.dev/icons?i=selenium,wordpress" />
+
+<br>
+
+<strong>n8n</strong> · <strong>Beautiful Soup</strong> · <strong>Web Scraping</strong> · <strong>Resend</strong>
+
+<br><br>
+
+<h3>🧩 Engineering Workflow</h3>
+
+<strong>Git</strong> · <strong>GitHub</strong> · <strong>GitLab</strong> · <strong>Jira</strong>
+
+<br>
+
+<strong>Scrum</strong> · <strong>Agile Methodologies</strong> · <strong>Workflow & Process Management</strong>
 
 </div>
+
+<br>
+
+<!-- =========================
+     ENGINEERING MINDSET
+========================= -->
+
+<h2 align="center">Engineering Mindset</h2>
+
+<p align="center">
+  <em>
+    Technology is only valuable when it solves the right problem.
+  </em>
+</p>
+
+<p align="center">
+  I’m interested in the space where software engineering,
+  infrastructure, automation and AI come together.
+  <br>
+  The goal is not simply to use more technologies —
+  <br>
+  it is to design better systems and build things that matter.
+</p>
+
+<br>
+
+<!-- =========================
+     PROFESSIONAL SKILLS
+========================= -->
+
+<h2 align="center">Professional Skills</h2>
+
+<p align="center">
+  Problem-solving · Teamwork · Effective Communication · Presentation Skills
+</p>
+
+<br>
+
+<!-- =========================
+     CONTACT
+========================= -->
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  Interested in technology, products, infrastructure or building something useful?
+  <br>
+  Feel free to reach out.
+</p>
+
+<p align="center">
+  <a href="mailto:muhammetbaykara491@gmail.com">
+    <img src="https://img.shields.io/badge/muhammetbaykara491%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Building with curiosity. Engineering with purpose.</sub>
+</p>
