@@ -1,14 +1,18 @@
 <!-- =========================
-     HERO
+     HERO & TITLE
 ========================= -->
 
+<div align="center">
+
+<h1 align="center">Muhammet Baykara</h1>
+
 <p align="center">
-  <img
-    src="./assets/muhammet-baykara-github-hero.svg"
-    width="100%"
-    alt="Muhammet Baykara — Software Engineer · Cloud · AI · Infrastructure"
-  />
+  <strong>Software Engineer | Cloud | IT | Network | AI Agents</strong>
+  <br>
+  <sub>IT & Software Solutions Specialist @ Prodenso BT</sub>
 </p>
+
+</div>
 
 <br>
 
@@ -37,17 +41,11 @@
 <h2 align="center">Building Systems. Solving Problems. Creating Products.</h2>
 
 <p align="center">
-  I’m a Software Engineer focused on Cloud, AI, Infrastructure and automation.
+  I’m a Software Engineer focused on Cloud, AI, Infrastructure, Network and Automation.
   <br>
   I enjoy taking complex problems, turning them into simple systems,
   <br>
   and building technology that creates real value.
-</p>
-
-<br>
-
-<p align="center">
-  <strong>IT & Software Solutions Specialist @ Prodenso BT</strong>
 </p>
 
 <br>
@@ -93,7 +91,7 @@
 <h2 align="center">What I Do</h2>
 
 <p align="center">
-  <strong>Cloud Infrastructure · Software Engineering · Automation · AI · Observability</strong>
+  <strong>Cloud Infrastructure · Software Engineering · Automation · AI Agents · Observability · Networking</strong>
 </p>
 
 <p align="center">
@@ -117,6 +115,9 @@
 <h3>☁️ Cloud & Platform</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,openstack,docker,kubernetes,linux" />
+
+<br>
+<strong>Safir Bulut</strong>
 
 <br><br>
 
@@ -142,7 +143,7 @@
 
 <br>
 
-<strong>Networking</strong> · <strong>Virtualization</strong> · <strong>Wireshark</strong> · <strong>IIS Crypto</strong>
+<strong>Networking Basics</strong> · <strong>Virtualization</strong> · <strong>Wireshark</strong> · <strong>IIS Crypto</strong> · <strong>Technical Support</strong>
 
 <br><br>
 
@@ -152,7 +153,7 @@
 
 <br>
 
-<strong>Machine Learning</strong> · <strong>Ollama</strong> · <strong>AnythingLLM</strong>
+<strong>AI Agents</strong> · <strong>Machine Learning</strong> · <strong>Ollama</strong> · <strong>AnythingLLM</strong>
 
 <br><br>
 
