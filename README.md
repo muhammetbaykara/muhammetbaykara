@@ -113,147 +113,101 @@
 <div align="center">
 
 <h3>☁️ Cloud & Platform</h3>
-
-<img src="https://skillicons.dev/icons?i=aws,openstack,docker,kubernetes,linux" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-1E1E1E?style=for-the-badge&logo=openstack&logoColor=red" />
+  <img src="https://img.shields.io/badge/Safir_Bulut-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 <br>
-<strong>Safir Bulut</strong>
-
-<br><br>
 
 <h3>⚙️ DevOps & Automation</h3>
+<p>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible,git,github,gitlab" />
-
-<br><br>
+<br>
 
 <h3>📊 Observability & Monitoring</h3>
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolarWinds-1A2B4C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+</p>
 
 <br>
-
-<strong>SolarWinds</strong> · <strong>Zabbix</strong> · <strong>OpenSearch</strong>
-
-<br><br>
 
 <h3>🌐 Networking & Infrastructure</h3>
-
-<img src="https://skillicons.dev/icons?i=linux,nginx" />
+<p>
+  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Virtualization-7F52FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIS_Crypto-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical_Support-008080?style=for-the-badge" />
+</p>
 
 <br>
-
-<strong>Networking Basics</strong> · <strong>Virtualization</strong> · <strong>Wireshark</strong> · <strong>IIS Crypto</strong> · <strong>Technical Support</strong>
-
-<br><br>
 
 <h3>🤖 AI & Machine Learning</h3>
-
-<img src="https://skillicons.dev/icons?i=python" />
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AnythingLLM-76B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 <br>
-
-<strong>AI Agents</strong> · <strong>Machine Learning</strong> · <strong>Ollama</strong> · <strong>AnythingLLM</strong>
-
-<br><br>
 
 <h3>💻 Software Engineering</h3>
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,html" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Apps-7F52FF?style=for-the-badge" />
+</p>
 
 <br>
-
-<strong>Cloud Applications</strong>
-
-<br><br>
 
 <h3>🗄️ Data & Distributed Systems</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
 <br>
-
-<strong>Kafka</strong> · <strong>RabbitMQ</strong> · <strong>Supabase</strong>
-
-<br><br>
 
 <h3>🔄 Automation & Web</h3>
-
-<img src="https://skillicons.dev/icons?i=selenium,wordpress" />
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Scraping-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
 <br>
-
-<strong>n8n</strong> · <strong>Beautiful Soup</strong> · <strong>Web Scraping</strong> · <strong>Resend</strong>
-
-<br><br>
 
 <h3>🧩 Engineering Workflow</h3>
-
-<strong>Git</strong> · <strong>GitHub</strong> · <strong>GitLab</strong> · <strong>Jira</strong>
-
-<br>
-
-<strong>Scrum</strong> · <strong>Agile Methodologies</strong> · <strong>Workflow & Process Management</strong>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum_%2F_Agile-2684FF?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</p>
 
 </div>
-
-<br>
-
-<!-- =========================
-     ENGINEERING MINDSET
-========================= -->
-
-<h2 align="center">Engineering Mindset</h2>
-
-<p align="center">
-  <em>
-    Technology is only valuable when it solves the right problem.
-  </em>
-</p>
-
-<p align="center">
-  I’m interested in the space where software engineering,
-  infrastructure, automation and AI come together.
-  <br>
-  The goal is not simply to use more technologies —
-  <br>
-  it is to design better systems and build things that matter.
-</p>
-
-<br>
-
-<!-- =========================
-     PROFESSIONAL SKILLS
-========================= -->
-
-<h2 align="center">Professional Skills</h2>
-
-<p align="center">
-  Problem-solving · Teamwork · Effective Communication · Presentation Skills
-</p>
-
-<br>
-
-<!-- =========================
-     CONTACT
-========================= -->
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  Interested in technology, products, infrastructure or building something useful?
-  <br>
-  Feel free to reach out.
-</p>
-
-<p align="center">
-  <a href="mailto:muhammetbaykara491@gmail.com">
-    <img src="https://img.shields.io/badge/muhammetbaykara491%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub>Building with curiosity. Engineering with purpose.</sub>
-</p>
